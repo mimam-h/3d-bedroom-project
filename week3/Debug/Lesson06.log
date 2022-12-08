@@ -1,0 +1,3 @@
+﻿  Demo.cpp
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB '' was not found with 'SOIL.lib(image_DXT.obj)' or at ''; linking object as if no debug info
+  Lesson06.vcxproj -> D:\0 Semester 5\Grafika Komputer\Source Code\vs\Debug\Lesson06.exe
